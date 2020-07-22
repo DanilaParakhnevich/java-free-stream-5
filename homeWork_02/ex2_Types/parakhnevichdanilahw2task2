@@ -1,0 +1,22 @@
+public class HW2TASK1{
+    int ships;
+    int whole;
+    int first;
+    string answer;
+    int random;
+    int randomizer;
+    string colourCAR;
+    int number;
+    int max;
+    int min;
+    int floor;
+    int ceiling;
+    int envisioned;
+    int variant;
+    int bankbill;
+    int bankbalance;
+    int creditcard;
+    int numberofwheels;
+    int costofticket;
+
+}
